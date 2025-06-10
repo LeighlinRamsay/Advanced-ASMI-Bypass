@@ -1,3 +1,5 @@
+# Bypass ASMI!
+
 This is an advanced ASMI bypass that currently isn't picked up by Windows defender or any of the anti virus softwares on VirusTotal.
 
 You should run this script line by line, don't just execute it .\pwn.ps1 it might get detected if you do that.
