@@ -1,3 +1,6 @@
+
+![Screenshot 2025-06-10 111757](https://github.com/user-attachments/assets/7d7063a6-bb2f-4bd5-a1a4-e83f5ececa8a)
+
 # Bypass ASMI!
 
 This is an advanced ASMI bypass that currently isn't picked up by Windows defender or any of the anti virus softwares on VirusTotal.
